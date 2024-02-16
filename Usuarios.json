@@ -1,0 +1,34 @@
+{
+    "Usuarios": [
+        {
+            "Id": [
+                "65456"
+            ],
+            "Nombre": [
+                "paula"
+            ],
+            "Direccion": [
+                "cra"
+            ],
+            "Numero": [
+                "564564"
+            ],
+            "Fecha de registro": "16-05-23"
+        },
+        {
+            "Id": [
+                "56564"
+            ],
+            "Nombre": [
+                "pola"
+            ],
+            "Direccion": [
+                "gfhbf"
+            ],
+            "Numero": [
+                "546456"
+            ],
+            "Fecha de registro": "fghfg"
+        }
+    ]
+}
